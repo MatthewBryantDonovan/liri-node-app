@@ -1,6 +1,4 @@
-# liri-node-app
-
-## Liri bot description ~
+# Liri Bot ~
 
 Liri bot will will take any of the commands below and give the user the following information:
 
