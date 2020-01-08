@@ -100,7 +100,22 @@ Liri does not recognize your command. Please use one of the following:
 
 There was an error finding that movie! Please try again!
 
-# Liri Demo Picture ~
+# Example Pictures ~
 
-![Liri Demo Picture](./demo/LiriDemo.png)
+* #### concert-this
+
+![concert-this Picture](./demo/concert-this.PNG)
+
+* #### spotify-this-song
+
+![spotify-this-song Picture](./demo/spotify-this-song.PNG)
+
+* #### movie-this
+
+![movie-this Picture](./demo/movie-this.PNG)
+
+* #### do-what-it-says
+
+![do-what-it-says Picture](./demo/do-what-it-says.PNG)
+
 
